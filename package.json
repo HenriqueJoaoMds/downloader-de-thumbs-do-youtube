@@ -1,0 +1,26 @@
+{
+  "name": "downloader-de-thumbs-do-youtube",
+  "version": "1.0.0",
+  "description": "Um programa para baixar thumbnails do youtube por linha de comandos",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenriqueJoaoMds/downloader-de-thumbs-do-youtube.git"
+  },
+  "keywords": [],
+  "author": "João Henrique <joaohenriquejh_@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenriqueJoaoMds/downloader-de-thumbs-do-youtube/issues"
+  },
+  "homepage": "https://github.com/HenriqueJoaoMds/downloader-de-thumbs-do-youtube#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "readline-sync": "^1.4.10"
+  }
+}
