@@ -8,7 +8,7 @@ Você baixa ou clona, então abre o terminal e digita: "npm install -d"
 
 # Usagem
 
-Você coloca o link do video quando pedir
+Você coloca o link do video quando pedir, após o programa terminar, você vai ver que foi criado uma pasta "imagens", que guardar todas as thumbs baixadas
 
 # Adicional
 
