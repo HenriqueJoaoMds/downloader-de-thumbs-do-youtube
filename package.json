@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/HenriqueJoaoMds/downloader-de-thumbs-do-youtube#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
     "readline-sync": "^1.4.10"
